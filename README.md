@@ -4,8 +4,6 @@ Software Engineering undergraduate at **UniKL MIIT** (CGPA 3.81, Dean's List eve
 I build across mobile, web and desktop — most recently **CampusPulse**, a shuttle booking system
 that won Champion & Gold at the UniKL FYP Innovation Showcase 2026.
 
-🔭 Seeking a **Software Engineer internship**, 12 Oct 2026 – 12 Feb 2027 &nbsp;·&nbsp; 📍 Selangor, Malaysia
-
 ### Featured projects
 
 | Project | What it is | Stack |
